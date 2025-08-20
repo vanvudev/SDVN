@@ -27,8 +27,11 @@ resize-right
 safetensors
 scikit-image>=0.19
 tomesd
-torch
+torch==2.4.0
+torchvision==0.19.0
+torchaudio==2.4.0
 torchdiffeq
 torchsde
 transformers==4.30.2
+xformers==0.0.27.post2
 pillow-avif-plugin==1.4.3
